@@ -1,0 +1,5 @@
+{
+  "name": "Flashcards de Química y Geometría",
+  "description": "Una aplicación web interactiva para estudiar conceptos de química (óxidos, hidruros, hidróxidos, ácidos), geometría (líneas/puntos notables, tipos de triángulos) y física (cinemática, MRU, MRUV) usando tarjetas de memoria (flashcards) con ayuda de IA.",
+  "requestFramePermissions": []
+}
